@@ -7,5 +7,6 @@
 - Initial Compose version: V1.29.2
 - Issue: 'docker compose' command not recognized
 - Root cause: Docker Compose V2 plugin not installed
-- Corrective action | Install 'docker-compose-v2'
+- Corrective action: Install 'docker-compose-v2'
 - Validation: Run 'docker compose version'
+- Issue Resolved
