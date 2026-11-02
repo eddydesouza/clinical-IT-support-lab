@@ -9,16 +9,16 @@ The lab uses OpenEMR, an open-source EHR platform, to simulate clinical operatio
 
 # Project Objectives
 
-Deploy and configure an EHR application in a Linux environment.
+- Deploy and configure an EHR application in a Linux environment.
 
-Simulate clinical workflows involving fictional patients and healthcare professionals.
+- Simulate clinical workflows involving fictional patients and healthcare professionals.
 
-Configure application users, roles, and access permissions.
+- Configure application users, roles, and access permissions.
 
-Develop and execute clinical workflow test cases.
+- Develop and execute clinical workflow test cases.
 
-Investigate and document simulated application incidents.
+- Investigate and document simulated application incidents.
 
-Practice incident management and resolution procedures.
+- Practice incident management and resolution procedures.
 
-Develop technical documentation and troubleshooting guides.
+- Develop technical documentation and troubleshooting guides.
