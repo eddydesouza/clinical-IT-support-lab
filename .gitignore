@@ -1,0 +1,21 @@
+# Environment variables and credentials
+.env
+**/.env
+**/.env.*
+!**/.env.example
+
+# Database backups
+*.sql
+*.sql.gz
+
+# Logs
+*.log
+
+# Local backups
+backups/
+
+# Additional database exports
+*.dump
+
+# Temporary files
+*.tmp
